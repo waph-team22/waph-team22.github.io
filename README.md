@@ -222,7 +222,7 @@ The code contains the information about the database connection (localhost, team
 
 - Video Demonstration:
 
-  [finalprojectvideo.webm](https://github.com/waph-team21/waph-team21.github.io/assets/148410492/a48ebc0a-fbee-4bae-ad89-c5dfa9a9b4df)
+  
 
 
 
