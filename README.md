@@ -210,10 +210,10 @@ confirms if the user has successfully authenticated and is logged in.
 retrieves user information from the database using the getUserProfile function.
 includes the checklogin_mysql function, which uses a MySQL database to validate user credentials.
 stops the hijacking of sessions,
-Database integration: The PHP code interacts with the waph_team21 MySQL database to retrieve user data and validate credentials.
+Database integration: The PHP code interacts with the waph_team22 MySQL database to retrieve user data and validate credentials.
 In order to prevent SQL injection, it uses prepared statements ($stmt->bind_param).
 
-The code contains the information about the database connection (localhost, team21, Pa$$w0rd,waph_team21).
+The code contains the information about the database connection (localhost, team22, Pa$$w0rd,waph_team22).
 
 -A team project website
 [A team project website](https://waph-team22.github.io/)
